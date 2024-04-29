@@ -8,6 +8,6 @@ Bu Veri Kümesi resmi NIH [Web Sitesinden](https://ceb.nlm.nih.gov/repositories/
 
 ## Medium Yazısı
 
-Bu projenin ayrıntılarını ve kod örneklerini içeren Medium yazısı için [buraya]([medium_yazısı_linki](https://medium.com/@gkdemrmelike/i̇kili-görüntü-sınıflandırması-binary-image-classifiaction-f8676518946f)) tıklayabilirsiniz.
+Bu projenin ayrıntılarını ve kod örneklerini içeren Medium yazısı için [buraya](https://medium.com/@gkdemrmelike/i̇kili-görüntü-sınıflandırması-binary-image-classifiaction-f8676518946f) tıklayabilirsiniz.
 
 ---
