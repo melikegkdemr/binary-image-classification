@@ -1,6 +1,6 @@
 # Malarial cell classification using CNN
 
-Bu proje, [İkili Görüntü Sınıflandırması(Binary Image Classifiaction)] yazısında kullanılan veri kümesi ve kod örneklerini içerir.
+Bu proje, İkili Görüntü Sınıflandırması(Binary Image Classifiaction) yazısında kullanılan veri kümesi ve kod örneklerini içerir.
 
 ## Veri Kümesi
 Kullandığım veri seti Sıtma içeren veya içermeyen hücrelerin bulunduğu Kaggle’da herkese açık olarak sunulmuş bir veri seti dir. 
