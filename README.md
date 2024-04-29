@@ -10,4 +10,8 @@ Bu Veri Kümesi resmi NIH [Web Sitesinden](https://ceb.nlm.nih.gov/repositories/
 
 Bu projenin ayrıntılarını ve kod örneklerini içeren Medium yazısı için [buraya](https://medium.com/@gkdemrmelike/i̇kili-görüntü-sınıflandırması-binary-image-classifiaction-f8676518946f) tıklayabilirsiniz.
 
+## Kaggle
+
+Kaggle'da bulunan koda ulaşmak için [buraya tıklayabilirsiniz](https://www.kaggle.com/code/melikegkdemir/malarial-cell-classification-using-cnn).
+
 ---
